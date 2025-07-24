@@ -1,5 +1,4 @@
-#Simple Python Calculator
-
+# Simple Python Calculator
 This is a basic Python calculator program to help perform very basic arithmetics
 The user can:
 - Enter two numbers 
@@ -7,11 +6,8 @@ The user can:
 - It performs the operation based on the input and print the result.
 - Example: If a user inputs 10, 5, and +, your program should display 10 + 5 = 15.
 
-## ✅ How to Run
+# How to Run
 
-1. Make sure Python is installed.
-2. Open a terminal.
-3. Run the file like this:
-
-```bash
-python simple_calculator.py
+1. Install the latest python and gitbash
+2. Open a gitbash and the correct folder of the project file
+3. Run the program on bash like this: python simple_calculator.py
