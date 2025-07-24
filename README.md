@@ -1,11 +1,11 @@
-# 🧮 Simple Python Calculator
+#Simple Python Calculator
 
-This is a beginner-friendly Python program that performs basic arithmetic operations.
-
+This is a basic Python calculator program to help perform very basic arithmetics
 The user can:
-- Enter two numbers (including decimals)
-- Choose an operation: +, -, *, or /
-- Get the result displayed
+- Enter two numbers 
+- Then select a mathematical operation (addition, subtraction, multiplication, or division)
+- It performs the operation based on the input and print the result.
+- Example: If a user inputs 10, 5, and +, your program should display 10 + 5 = 15.
 
 ## ✅ How to Run
 
